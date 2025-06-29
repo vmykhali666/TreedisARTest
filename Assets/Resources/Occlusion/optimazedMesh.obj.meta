@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 6d1331aa7f78f44d99417212ff0f4228
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk001_group000_sub002Mat
+    second: {fileID: 2100000, guid: 5ba9e0cf2bcc94eab949f014d45ee10d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk002_group000_sub002Mat
+    second: {fileID: 2100000, guid: f92ebe69397c346aabe7b9f83612492a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk003_group000_sub002Mat
+    second: {fileID: 2100000, guid: ee25d4c9878f64aa4a5c8bb85daece22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk004_group000_sub002Mat
+    second: {fileID: 2100000, guid: 83c111a063d8442f380b69ee6e714f23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk005_group000_sub002Mat
+    second: {fileID: 2100000, guid: 5bf57c127bbe24d10bcf406b13d13dfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk006_group000_sub002Mat
+    second: {fileID: 2100000, guid: 72f76de395c7b41eea5269b3dd161861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk007_group000_sub002Mat
+    second: {fileID: 2100000, guid: 70b5a74e4beb14bfa9c18aa3289af4c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk008_group000_sub002Mat
+    second: {fileID: 2100000, guid: 78f4ccf43170e4a93bd3c8453c4de991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk009_group000_sub002Mat
+    second: {fileID: 2100000, guid: 5648c50cd671546fda2df71b85184bd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk010_group000_sub002Mat
+    second: {fileID: 2100000, guid: 27f2b2f6bd09144489bcc9e9f60fabe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk011_group000_sub002Mat
+    second: {fileID: 2100000, guid: 6ecf520552bfd483c85c1df138f60fe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk012_group000_sub002Mat
+    second: {fileID: 2100000, guid: 6cf3fc02c63864282a77a54df46e0976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk013_group000_sub002Mat
+    second: {fileID: 2100000, guid: 00e4b59f92fe6498e89322e50c192416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk014_group000_sub002Mat
+    second: {fileID: 2100000, guid: 02f2c97a31ef243c480e1b41571747e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk016_group000_sub002Mat
+    second: {fileID: 2100000, guid: 7092eedb84f4d43728c6a36e7bc9314a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk017_group000_sub002Mat
+    second: {fileID: 2100000, guid: 0210396802f3546cdb2c0877603de07e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk018_group000_sub002Mat
+    second: {fileID: 2100000, guid: 19b0d64d930b64617a85e28492867c76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk019_group000_sub002Mat
+    second: {fileID: 2100000, guid: 0816121181c62477586bdfea3b0a8789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk020_group000_sub002Mat
+    second: {fileID: 2100000, guid: 183f2cc394ded4f9bbd4534576d9bb8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk021_group000_sub002Mat
+    second: {fileID: 2100000, guid: 21104ac1038a1483f8011c225f729a74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk022_group000_sub002Mat
+    second: {fileID: 2100000, guid: 71ba7f3bb3b764f289db3bfb7a81e952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk023_group000_sub002Mat
+    second: {fileID: 2100000, guid: 5f18360c95f1f4152b9d2b7a8d7e1380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk024_group000_sub002Mat
+    second: {fileID: 2100000, guid: 1191daaeb287344d0b25308337e3b5a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk026_group000_sub002Mat
+    second: {fileID: 2100000, guid: e868954ceca4f456899488d10a5bb1cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk027_group000_sub002Mat
+    second: {fileID: 2100000, guid: 0a28d05bbfc2c481c94321819dd90bdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk028_group000_sub002Mat
+    second: {fileID: 2100000, guid: 6902c6aac32bb458889344b2accd9d40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk029_group000_sub002Mat
+    second: {fileID: 2100000, guid: 651eb5fdf6a6d4c7e9326159294ca707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk030_group000_sub002Mat
+    second: {fileID: 2100000, guid: 648707de6a8b3443a8e39322365ff2a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk031_group000_sub002Mat
+    second: {fileID: 2100000, guid: 219a2e600abf14ff7a25b4d61a1a0b84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk032_group000_sub002Mat
+    second: {fileID: 2100000, guid: 612bebf73e83a4510acea7e3bf4891db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk033_group000_sub002Mat
+    second: {fileID: 2100000, guid: 3f9bd6919c3a845459cd6771fa2e1884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk034_group000_sub002Mat
+    second: {fileID: 2100000, guid: 4706bc19cc0a24f6c8e05611cee54e55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk035_group000_sub002Mat
+    second: {fileID: 2100000, guid: a11c2105d89664da3b4a05b66c5ae510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk036_group000_sub002Mat
+    second: {fileID: 2100000, guid: 446012243d01243c78975e78641cc9b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk037_group000_sub002Mat
+    second: {fileID: 2100000, guid: 08f362a7d535740b89325a9da3fa7d7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk038_group000_sub002Mat
+    second: {fileID: 2100000, guid: c3ca3f52399ee48ac87af10735b3a496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk039_group000_sub002Mat
+    second: {fileID: 2100000, guid: c281f440079d04acd91120154be1a0f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk040_group000_sub002Mat
+    second: {fileID: 2100000, guid: a27d4739479454ea08a755b97eb3a28b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk041_group000_sub002Mat
+    second: {fileID: 2100000, guid: d7f3c15c1d8a248188dca60f2f0fb538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk042_group000_sub002Mat
+    second: {fileID: 2100000, guid: 6420e3231ab544353ad491eae3fa9985, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk043_group000_sub002Mat
+    second: {fileID: 2100000, guid: 201c35d257906494d92875e93307ae25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk044_group000_sub002Mat
+    second: {fileID: 2100000, guid: 4372174252efb4549a3708f3f6feb2fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk045_group000_sub002Mat
+    second: {fileID: 2100000, guid: cf92a949e0cc043ee8f92877c53b5c89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk046_group000_sub002Mat
+    second: {fileID: 2100000, guid: 334a4c9ed452c4d6d9dae94b0f140f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk048_group000_sub002Mat
+    second: {fileID: 2100000, guid: ec74eb6a3b934456790534035ecf850a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk049_group000_sub002Mat
+    second: {fileID: 2100000, guid: 09b4b9820dca141b2ad5b8819304b0d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk050_group000_sub002Mat
+    second: {fileID: 2100000, guid: d4283eba999bc453fb41c7fa53f85035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk055_group000_sub002Mat
+    second: {fileID: 2100000, guid: 93a3afb0464cb4dbdadaf7c291d8e24d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk057_group000_sub002Mat
+    second: {fileID: 2100000, guid: 6d10b13c532c54fa481a47609711a7f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk060_group000_sub002Mat
+    second: {fileID: 2100000, guid: 035a2c96550424c7f98600db7ec1fcb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk064_group000_sub002Mat
+    second: {fileID: 2100000, guid: 1f8d8b89983444a4a820d1711517285e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk101_group000_sub003Mat
+    second: {fileID: 2100000, guid: 183157b99cc3b4715a59fdeae580cf6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk103_group000_sub004Mat
+    second: {fileID: 2100000, guid: eabec384e25904461851b40b58fc0882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk104_group000_sub014Mat
+    second: {fileID: 2100000, guid: aa572d7ca40c4498692bf1455fa0e9eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk106_group000_sub004Mat
+    second: {fileID: 2100000, guid: a41c4712c1fc24be8b04e4a3e356681c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk154_group000_sub003Mat
+    second: {fileID: 2100000, guid: a731d8ff83bf548c292af587ca599b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk156_group000_sub004Mat
+    second: {fileID: 2100000, guid: 44134b03859cc4641a775227218fa37e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk158_group000_sub016Mat
+    second: {fileID: 2100000, guid: eb974bc3943ff483f8524a6eec9994ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk163_group000_sub004Mat
+    second: {fileID: 2100000, guid: f7fa4632973744c6f867b3be7c628c88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk169_group000_sub004Mat
+    second: {fileID: 2100000, guid: de4e698cbe5c04555b425201f2be5785, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk171_group000_sub014Mat
+    second: {fileID: 2100000, guid: 54497f0c885ae4914b645807a47b6784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk172_group000_sub003Mat
+    second: {fileID: 2100000, guid: b2f867fcf501949fc874f9d9a29c3170, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk173_group000_sub004Mat
+    second: {fileID: 2100000, guid: a3e36bef8babe4de1bbfc3ff6f344349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk184_group000_sub014Mat
+    second: {fileID: 2100000, guid: 2db44266306a04f0d941c3284f2b8d21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_chunk186_group000_sub016Mat
+    second: {fileID: 2100000, guid: 26411c65ec898428a9ac425f4f66cbf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_mirror107_group000_sub004Mat
+    second: {fileID: 2100000, guid: ee25f86c086444e92835e28f5237c463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_mirror117_group000_sub004Mat
+    second: {fileID: 2100000, guid: b32c618e113aa4280a943e522a25e50b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_mirror123_group000_sub004Mat
+    second: {fileID: 2100000, guid: 4172ab29246364768811967d0d8ec0f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_mirror164_group000_sub004Mat
+    second: {fileID: 2100000, guid: 1cbdfa5740ac443a3aefcfb48305ad7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_mirror165_group000_sub004Mat
+    second: {fileID: 2100000, guid: c147a17d720914c9cb95a8fee35e8136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_omer_test_mirror174_group000_sub004Mat
+    second: {fileID: 2100000, guid: 76faf6328745e4fa28d4b7e7fb46ce6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: omer_test_chunk000_group000_sub002_group1Mat
+    second: {fileID: 2100000, guid: b5c09325612fb4c2494030e67367e9a7, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
